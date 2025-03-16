@@ -1,7 +1,7 @@
 🌐 Virtual Realm
 🚀 A sleek and futuristic landing page built with React & Tailwind CSS.
 
-![Virtual Realm Screenshot]([https://raw.githubusercontent.com/your-username/your-repo/main/assets/screenshot.png](https://wurknlcenuyjzuapizkq.supabase.co/storage/v1/object/public/saveonline//virtualreailm.png))
+![Virtual Realm Screenshot](https://wurknlcenuyjzuapizkq.supabase.co/storage/v1/object/public/saveonline//virtualreailm.png)
 
 📌 About
 Virtual Realm is a modern, high-performance landing page designed to provide a seamless user experience. Built with React and Tailwind CSS, it offers a responsive and visually appealing interface, perfect for showcasing digital products, services, or brands.
